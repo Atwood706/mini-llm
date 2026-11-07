@@ -1,0 +1,13 @@
+# 数据和训练输出：太大，而且服务器上会重新生成
+workspace/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 模型文件
+*.pt
+
+# 系统和编辑器文件
+.DS_Store
+.vscode/
